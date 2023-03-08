@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -auv --exclude='*/' --include='*.htm'l --exclude='*' ./ ../
+cp -Rnu ./ ../
