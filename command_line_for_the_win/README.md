@@ -22,3 +22,5 @@ using an ssh connection(feel free to use webterm or you fav method)
 STEP 6: I wrote this README.md in emacs through my putty ssh connection
 
 STEP 7: Push to github.
+
+DO NOT FORGET TO NAME YOUR SCREENSHOTS ACCORDINGLY AS YOU TAKE THEM
