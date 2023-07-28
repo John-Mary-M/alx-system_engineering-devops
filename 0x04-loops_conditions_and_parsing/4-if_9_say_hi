@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # prints Best School 10 times, but for the 9th, displays Best School and Hi.
 
 i=1
