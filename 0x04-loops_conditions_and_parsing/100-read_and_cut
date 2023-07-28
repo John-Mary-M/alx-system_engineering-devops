@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# reads the contents of /etc/passwd
 
 while IFS=: read -r username _ uid _ _ home _; do
   echo "Username: $username"
