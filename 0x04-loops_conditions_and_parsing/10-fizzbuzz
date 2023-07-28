@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # fizz buzz
 
 for ((num=1; num<=100; num++))
